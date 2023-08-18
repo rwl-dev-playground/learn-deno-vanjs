@@ -1,10 +1,11 @@
-# Learn Repo Template
+# Learn Deno VanJS
 
 ## 本リポジトリの目的
-練習用リポジトリを目的や達成目標を持って実施できるようにするため
+VanJSの書き味を理解すること
 
 ## 本リポジトリの達成目標
-このテンプレートリポジトリを使って練習用リポジトリを作成されるようになる
+DenoでVanJSが試せる
 
 ## 参考資料
-- 特になし
+- [VanJS で素のDOM操作をリファクタしてみた](https://zenn.dev/ryo_kawamata/articles/1ad6e51eed13ae)
+- [Mini-Van - A Minimalist Template Engine for Client/Server-side Rendering](https://vanjs.org/minivan#server-side-deno-integration)
